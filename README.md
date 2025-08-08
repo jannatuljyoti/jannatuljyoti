@@ -91,21 +91,21 @@ MealNest is a full-stack MERN web application designed to manage university host
 - Responsive Design (Mobile, Tablet, Desktop)
 
 📁 Dependencies (Key Packages)
-bash
-Copy code
+
+
 Frontend: axios, firebase, react-router-dom, react-toastify, sweetalert2  
 Backend: express, mongodb, jsonwebtoken, cors, stripe, dotenv
+
 ⚙️ How to Run Locally
 🔧 Client
-bash
-Copy code
+
 git clone https://github.com/yourusername/mealnest-client.git
 cd mealnest-client
 npm install
 npm run dev
+
 🔧 Server
-bash
-Copy code
+
 git clone https://github.com/yourusername/mealnest-server.git
 cd mealnest-server
 npm install
@@ -141,22 +141,21 @@ Propick is a product recommendation platform where users can post queries about 
 - Custom 404 Error Page
 
 - 📁 Dependencies (Key Packages)
-bash
-Copy code
+
 Frontend: firebase, axios, framer-motion, react-router-dom  
 Backend: express, mongodb, cors, jsonwebtoken, dotenv
+
 ⚙️ How to Run Locally
 🔧 Client
-bash
-Copy code
-git clone https://github.com/yourusername/propick-client.git
+
+git clone https://github.com/jannatuljyoti/propick-client.git
 cd propick-client
 npm install
 npm run dev
+
 🔧 Server
-bash
-Copy code
-git clone https://github.com/yourusername/propick-server.git
+
+git clone https://github.com/jannatuljyoti/propick-server.git
 cd propick-server
 npm install
 create .env file with MongoDB URI, JWT_SECRET
