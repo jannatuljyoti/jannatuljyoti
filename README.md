@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://your-banner-image-link.com/banner.png](https://i.ibb.co.com/21SmgBVc/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)" alt="Banner" width="100%">
+  <img src="https://i.ibb.co/21SmgBVc/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" width="100%"/>
 </p>
+
 
 <!-- Name & Designation -->
 <h1 align="center">Hi, I'm Jannatul Fardoush 👋</h1>
