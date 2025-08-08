@@ -63,7 +63,7 @@ Here are some of the full-stack MERN applications I have built.
 
 ---
 
-## 1️⃣ 🍽️ MealNest - Hostel Management System
+##  🍽️ MealNest - Hostel Management System
 
 **🔗 Live Website:** [MealNest](https://mealnest-94d50.web.app/)  
 
@@ -106,7 +106,9 @@ git clone https://github.com/jannatuljyoti/mealNest-client.git
 
 
 cd mealnest-client
+
 npm install
+
 npm run dev
 
 🔧 Server
@@ -114,13 +116,16 @@ npm run dev
 git clone https://github.com/jannatuljyoti/mealNest-server.git
 
 cd mealnest-server
+
 npm install
+
 create .env file with MongoDB URI, JWT_SECRET, STRIPE_KEY
+
 npm run start
 
 ---
 
-## 2️⃣ 📦 Propick - Product Recommendation Platform
+##  📦 Propick - Product Recommendation Platform
 
 **🔗 Live Website:** [Propick](https://propick-code.web.app/)  
 
@@ -159,7 +164,9 @@ Backend: express, mongodb, cors, jsonwebtoken, dotenv
 git clone https://github.com/jannatuljyoti/b11-a11-client-side.git
 
 cd propick-client
+
 npm install
+
 npm run dev
 
 🔧 Server
@@ -167,8 +174,11 @@ npm run dev
 git clone https://github.com/jannatuljyoti/b11-a11-server-side.git
 
 cd propick-server
+
 npm install
+
 create .env file with MongoDB URI, JWT_SECRET
+
 npm run start
 
 
