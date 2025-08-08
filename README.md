@@ -72,7 +72,7 @@ I am a passionate **MERN Stack Developer**  with a strong interest in building m
   <img src="https://github-readme-stats.vercel.app/api?username=jannatuljyoti&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=jannatuljyoti&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=jannatuljyoti&theme=tokyonight" alt="GitHub streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatuljyoti&layout=compact&theme=tokyonight" alt="Top Languages"/>
