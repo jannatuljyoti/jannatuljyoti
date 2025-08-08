@@ -52,6 +52,75 @@ I am a passionate **MERN Stack Developer**  with a strong interest in building m
 
 ---
 
+<h1 align="center">Projects</h1>
+
+
+
+# 🌟 My MERN Stack Projects
+
+Welcome to my project showcase!  
+Here are some of the full-stack MERN applications I have built.
+
+---
+
+## 1️⃣ 🍽️ MealNest - Hostel Management System
+
+**🔗 Live Website:** [MealNest](https://mealnest-94d50.web.app/)  
+
+![MealNest Screenshot](client/public/images/mealsnest-home.png)
+
+### 📌 Overview
+MealNest is a full-stack MERN web application designed to manage university hostel meal services, reviews, and premium subscriptions. It offers a smooth experience for both students and admins with role-based dashboards, secure authentication, and premium features.
+
+### 👤 Admin Credentials
+- **Email:** `mina@khatun.com`  
+- **Password:** `123456qwQW`
+
+### 🛠️ Technologies
+**Frontend:** React.js, Tailwind CSS, DaisyUI, React Router, Firebase Authentication  
+**Backend:** Node.js, Express.js, MongoDB, JWT, Stripe API  
+**Others:** SweetAlert2, React Toastify  
+
+### 🚀 Core Features
+- Secure Student & Admin Login (Email/Password + Social Login)
+- Role-Based Dashboards with protected routes
+- Meal Management (Add, Update, Delete, Publish, Upcoming Meals)
+- Meal Request & Like/Review system
+- Stripe Payment for premium plans (Silver, Gold, Platinum)
+- Dynamic Search, Filter & Infinite Scrolling
+- Responsive Design (Mobile, Tablet, Desktop)
+- Notifications for CRUD & Auth events
+
+---
+
+## 2️⃣ 📦 Propick - Product Recommendation Platform
+
+**🔗 Live Website:** [Propick](https://propick-code.web.app/)  
+
+![Propick Screenshot](client/public/images/propick-home.png)
+
+### 📌 Overview
+Propick is a product recommendation platform where users can post queries about products, get alternative suggestions, and interact via recommendations & comments. The system includes authentication, JWT-protected routes, and a dynamic UI.
+
+### 🛠️ Technologies
+**Frontend:** React.js, Tailwind CSS, React Router, Firebase Auth, Axios, React Firebase Hooks, Framer Motion  
+**Backend:** Node.js, Express.js, MongoDB, JWT  
+**Others:** dotenv, CORS
+
+### 🚀 Core Features
+- Email/Password & Google Sign-In Authentication
+- Conditional rendering based on auth state
+- Protected Routes using JWT
+- CRUD operations on user queries
+- Search & Filter queries by product name
+- Recommendation system (Add/Delete)
+- Dashboard for managing queries & recommendations
+- Grid layout toggle (1/2/3 columns)
+- Responsive Design
+- Custom 404 Error Page
+
+---
+
 ## 🌐 Connect with Me
 <p>
   <a href="https://github.com/jannatuljyoti" target="_blank">
