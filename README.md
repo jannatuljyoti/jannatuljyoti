@@ -6,21 +6,18 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi, I'm Jannatul Fardoush 👋</h1>
-<h3 align="center">Junior MERN Stack Developer</h3>
+
 
 ---
 
 ## 🚀 About Me
-I am a passionate **MERN Stack Developer** from Bangladesh with a strong interest in building modern, responsive, and user-friendly web applications.  
-I love writing clean, maintainable code, exploring new tools, and continuously learning to enhance my skills.  
-Always eager to contribute to impactful projects and grow as a professional developer.
-
+I am a passionate **MERN Stack Developer**  with a strong interest in building modern, responsive, and user-friendly web applications and love to continuously learn. I’m always eager to work on meaningful projects and grow as a developer.
 ---
 
 ## 📌 Current Activities
 - 🔍 Exploring **Next.js** for modern web development.  
-- 💻 Working on a **Tourism Website** project.  
-- 📚 Improving my backend skills with **Node.js & MongoDB**.  
+- 💻 Currently working on a responsive e-commerce website using MERN Stack.  
+- 📚 Learning advanced authentication and security practices with JWT & Firebase..  
 
 ---
 
@@ -57,10 +54,10 @@ Always eager to contribute to impactful projects and grow as a professional deve
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/jannatuljyoti" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/jannatul-fardoush/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jannatuljyoti085@gmail.com" target="_blank">
