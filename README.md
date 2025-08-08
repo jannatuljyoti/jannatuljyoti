@@ -52,7 +52,7 @@ I am a passionate **MERN Stack Developer**  with a strong interest in building m
 
 ---
 
-<h1 align="center">Projects</h1>
+
 
 
 
@@ -67,7 +67,7 @@ Here are some of the full-stack MERN applications I have built.
 
 **🔗 Live Website:** [MealNest](https://mealnest-94d50.web.app/)  
 
-![MealNest Screenshot](client/public/images/mealsnest-home.png)
+![MealNest Screenshot](https://i.ibb.co.com/7x9JxQ5D/Screenshot-2025-08-08-020243.png)
 
 ### 📌 Overview
 MealNest is a full-stack MERN web application designed to manage university hostel meal services, reviews, and premium subscriptions. It offers a smooth experience for both students and admins with role-based dashboards, secure authentication, and premium features.
@@ -99,14 +99,17 @@ Backend: express, mongodb, jsonwebtoken, cors, stripe, dotenv
 ⚙️ How to Run Locally
 🔧 Client
 
-git clone https://github.com/yourusername/mealnest-client.git
+git clone https://github.com/jannatuljyoti/mealNest-client.git
+
+
 cd mealnest-client
 npm install
 npm run dev
 
 🔧 Server
 
-git clone https://github.com/yourusername/mealnest-server.git
+git clone https://github.com/jannatuljyoti/mealNest-server.git
+
 cd mealnest-server
 npm install
 create .env file with MongoDB URI, JWT_SECRET, STRIPE_KEY
@@ -118,7 +121,7 @@ npm run start
 
 **🔗 Live Website:** [Propick](https://propick-code.web.app/)  
 
-![Propick Screenshot](client/public/images/propick-home.png)
+![Propick Screenshot](https://i.ibb.co.com/FbmFbdcK/Screenshot-2025-08-08-020800.png)
 
 ### 📌 Overview
 Propick is a product recommendation platform where users can post queries about products, get alternative suggestions, and interact via recommendations & comments. The system includes authentication, JWT-protected routes, and a dynamic UI.
@@ -148,14 +151,16 @@ Backend: express, mongodb, cors, jsonwebtoken, dotenv
 ⚙️ How to Run Locally
 🔧 Client
 
-git clone https://github.com/jannatuljyoti/propick-client.git
+git clone https://github.com/jannatuljyoti/b11-a11-client-side.git
+
 cd propick-client
 npm install
 npm run dev
 
 🔧 Server
 
-git clone https://github.com/jannatuljyoti/propick-server.git
+git clone https://github.com/jannatuljyoti/b11-a11-server-side.git
+
 cd propick-server
 npm install
 create .env file with MongoDB URI, JWT_SECRET
