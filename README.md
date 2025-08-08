@@ -71,6 +71,7 @@ Here are some of the full-stack MERN applications I have built.
 
 
 
+
 ### 📌 Overview
 MealNest is a full-stack MERN web application designed to manage university hostel meal services, reviews, and premium subscriptions. It offers a smooth experience for both students and admins with role-based dashboards, secure authentication, and premium features.
 
