@@ -124,7 +124,9 @@ npm run start
 
 **🔗 Live Website:** [Propick](https://propick-code.web.app/)  
 
-![Propick Screenshot](https://i.ibb.co.com/FbmFbdcK/Screenshot-2025-08-08-020800.png)
+<img src="https://i.ibb.co.com/FbmFbdcK/Screenshot-2025-08-08-020800.png" alt="MealNest Screenshot" width="600"/>
+
+
 
 ### 📌 Overview
 Propick is a product recommendation platform where users can post queries about products, get alternative suggestions, and interact via recommendations & comments. The system includes authentication, JWT-protected routes, and a dynamic UI.
